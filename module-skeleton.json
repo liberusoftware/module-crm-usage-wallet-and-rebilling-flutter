@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-usage-wallet-and-rebilling-flutter",
+  "capabilityKey": "liberusoftware/module-crm-usage-wallet-and-rebilling",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_usage_wallet_and_rebilling_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/usage-wallet-and-rebilling.md",
+  "presentationPlan": "projects/crm/flutter/usage-wallet-and-rebilling.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
